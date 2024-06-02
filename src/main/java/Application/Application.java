@@ -13,10 +13,12 @@ import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 /**
  *
  * @author alift
  */
+
 public class Application {
     private Meal dataMeal = new Meal();
     private List<User> userList = new ArrayList<User>();
